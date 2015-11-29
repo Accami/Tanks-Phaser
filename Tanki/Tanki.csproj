@@ -22,20 +22,47 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app.css" />
+    <Content Include="css\game.css" />
+    <Content Include="images\crosshair_large.png" />
+    <Content Include="images\crosshair_small.png" />
+    <Content Include="images\environment.png" />
+    <Content Include="images\javascript - Apply an action to every object in group for Phaser js - Stack Overflow.html" />
+    <Content Include="images\smoke.png" />
+    <Content Include="images\tanks.png" />
+    <Content Include="images\track.png" />
+    <Content Include="images\tracks.png" />
+    <Content Include="images\ui_atlas.png" />
     <Content Include="index.html" />
+    <Content Include="libs\phaser\phaser.min.js" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="app.ts" />
+    <TypeScriptCompile Include="js\Player.ts" />
+    <TypeScriptCompile Include="main.ts" />
+    <TypeScriptCompile Include="js\Game.ts" />
+    <TypeScriptCompile Include="libs\phaser\p2.d.ts" />
+    <TypeScriptCompile Include="libs\phaser\phaser.comments.d.ts" />
+    <TypeScriptCompile Include="libs\phaser\phaser.d.ts" />
+    <TypeScriptCompile Include="libs\phaser\pixi.comments.d.ts" />
+    <TypeScriptCompile Include="libs\phaser\pixi.d.ts" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\environment.json" />
+    <Content Include="images\smoke.json" />
+    <Content Include="images\tanks.json" />
+    <Content Include="images\tanks.json~" />
+    <Content Include="images\ui_atlas.json" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
     <None Include="web.Release.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="images\smoke\" />
+    <Folder Include="images\ui\" />
+    <Folder Include="sound\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">12.0</VisualStudioVersion>

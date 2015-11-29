@@ -1,0 +1,204 @@
+{"frames": [
+
+{
+	"filename": "barrelBeige.png",
+	"frame": {"x":150,"y":146,"w":16,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":50},
+	"sourceSize": {"w":16,"h":50}
+},
+{
+	"filename": "barrelBlack.png",
+	"frame": {"x":168,"y":146,"w":16,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":50},
+	"sourceSize": {"w":16,"h":50}
+},
+{
+	"filename": "barrelBlue.png",
+	"frame": {"x":186,"y":146,"w":16,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":50},
+	"sourceSize": {"w":16,"h":50}
+},
+{
+	"filename": "barrelGreen.png",
+	"frame": {"x":204,"y":146,"w":16,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":50},
+	"sourceSize": {"w":16,"h":50}
+},
+{
+	"filename": "barrelRed.png",
+	"frame": {"x":222,"y":146,"w":16,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":50},
+	"sourceSize": {"w":16,"h":50}
+},
+{
+	"filename": "bulletBeige.png",
+	"frame": {"x":240,"y":2,"w":12,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":26},
+	"sourceSize": {"w":12,"h":26}
+},
+{
+	"filename": "bulletBeigeSilver.png",
+	"frame": {"x":240,"y":30,"w":12,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":26},
+	"sourceSize": {"w":12,"h":26}
+},
+{
+	"filename": "bulletBlue.png",
+	"frame": {"x":240,"y":58,"w":12,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":26},
+	"sourceSize": {"w":12,"h":26}
+},
+{
+	"filename": "bulletBlueSilver.png",
+	"frame": {"x":240,"y":86,"w":12,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":26},
+	"sourceSize": {"w":12,"h":26}
+},
+{
+	"filename": "bulletGreen.png",
+	"frame": {"x":240,"y":114,"w":12,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":26},
+	"sourceSize": {"w":12,"h":26}
+},
+{
+	"filename": "bulletGreenSilver.png",
+	"frame": {"x":240,"y":142,"w":12,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":26},
+	"sourceSize": {"w":12,"h":26}
+},
+{
+	"filename": "bulletRed.png",
+	"frame": {"x":240,"y":170,"w":12,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":26},
+	"sourceSize": {"w":12,"h":26}
+},
+{
+	"filename": "bulletRedSilver.png",
+	"frame": {"x":150,"y":198,"w":12,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":26},
+	"sourceSize": {"w":12,"h":26}
+},
+{
+	"filename": "bulletSilver.png",
+	"frame": {"x":164,"y":198,"w":12,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":26},
+	"sourceSize": {"w":12,"h":26}
+},
+{
+	"filename": "bulletSilverSilver.png",
+	"frame": {"x":178,"y":198,"w":12,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":26},
+	"sourceSize": {"w":12,"h":26}
+},
+{
+	"filename": "bulletBlack.png",
+	"frame": {"x":192,"y":198,"w":12,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":26},
+	"sourceSize": {"w":12,"h":26}
+},
+{
+	"filename": "bulletBlackSilver.png",
+	"frame": {"x":206,"y":198,"w":12,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":26},
+	"sourceSize": {"w":12,"h":26}
+},
+{
+	"filename": "tankBeige.png",
+	"frame": {"x":86,"y":2,"w":75,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":70},
+	"sourceSize": {"w":75,"h":70}
+},
+{
+	"filename": "tankBlack.png",
+	"frame": {"x":163,"y":2,"w":75,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":70},
+	"sourceSize": {"w":75,"h":70}
+},
+{
+	"filename": "tankBlue.png",
+	"frame": {"x":86,"y":74,"w":75,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":70},
+	"sourceSize": {"w":75,"h":70}
+},
+{
+	"filename": "tankGreen.png",
+	"frame": {"x":78,"y":146,"w":70,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":75},
+	"sourceSize": {"w":70,"h":75}
+},
+{
+	"filename": "tankRed.png",
+	"frame": {"x":163,"y":74,"w":75,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":70},
+	"sourceSize": {"w":75,"h":70}
+},
+{
+	"filename": "tracksLarge.png",
+	"frame": {"x":2,"y":2,"w":82,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":104},
+	"sourceSize": {"w":82,"h":104}
+},
+{
+	"filename": "tracksSmall.png",
+	"frame": {"x":2,"y":108,"w":74,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":104},
+	"sourceSize": {"w":74,"h":104}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "tanks.png",
+	"format": "RGBA8888",
+	"size": {"w":254,"h":226},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:eaf2f42b249c444bbcad611727fbee55:6261967f4c568a03366a63d13aa90f40:e3ee765dcb86c37cc90e57d93acf6013$"
+}
+}

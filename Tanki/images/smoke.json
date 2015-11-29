@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "smokeGrey1.png",
+	"frame": {"x":94,"y":2,"w":92,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":89},
+	"sourceSize": {"w":92,"h":89}
+},
+{
+	"filename": "smokeGrey2.png",
+	"frame": {"x":2,"y":2,"w":90,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":99},
+	"sourceSize": {"w":90,"h":99}
+},
+{
+	"filename": "smokeGrey3.png",
+	"frame": {"x":188,"y":2,"w":79,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":79},
+	"sourceSize": {"w":79,"h":79}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "smoke.png",
+	"format": "RGBA8888",
+	"size": {"w":269,"h":103},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:97c20cf46e8e404333c90a1e3c20b17f:0a21ed25d8409c6a3b415d3ae256cf8f:557cac7724a8d29be5c43a56587d549b$"
+}
+}
