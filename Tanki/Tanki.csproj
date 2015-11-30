@@ -60,7 +60,8 @@
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="js\Player.ts" />
+    <TypeScriptCompile Include="js\Bullet.ts" />
+    <TypeScriptCompile Include="js\LocalPlayer.ts" />
     <TypeScriptCompile Include="main.ts" />
     <TypeScriptCompile Include="js\Game.ts" />
     <TypeScriptCompile Include="libs\phaser\p2.d.ts" />

@@ -31,7 +31,7 @@
 
         game.physics.startSystem(Phaser.Physics.P2JS);
 
-        this.localPlayer = new Player(game);
+        this.localPlayer = new LocalPlayer();
         this.localPlayer.create();
 
     }

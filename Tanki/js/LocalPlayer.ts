@@ -1,18 +1,15 @@
-﻿class Player {
+﻿class LocalPlayer {
 
     private player;
     private cursors;
     private wasd;
-    private mouse;
     private tankColor;
     private trackTime = 0;
+    private bulletTime = 0;
     private barrel;
     private track;
     private speed = 200;
-
-    constructor(player) {
-        this.player = player;
-    }
+    private bullets;
 
     create() {
         // Set up a Phaser controller for keyboard input.
@@ -24,7 +21,6 @@
             left: game.input.keyboard.addKey(Phaser.Keyboard.A),
             right: game.input.keyboard.addKey(Phaser.Keyboard.D),
         };
-        this.mouse = game.input.mouse.button;
 
         this.tankColor = "Green";
 
@@ -39,6 +35,8 @@
         this.barrel.frameName = "barrel" + this.tankColor + ".png";
         this.barrel.anchor.x = 0.5;
         game.physics.enable(this.barrel, Phaser.Physics.ARCADE);
+
+        this.bullets = new Bullet(game);
 
     }
 
@@ -86,6 +84,14 @@
 
         var x = this.player.x;
         var y = this.player.y;
+
+        //Shooting mechanics (left click)
+        if ((game.time.totalElapsedSeconds() - this.bulletTime) >= 1) {
+            if (game.input.mousePointer.isDown) {
+                this.bulletTime = game.time.totalElapsedSeconds();
+                this.bullets.create(this.barrel, this.tankColor);
+            }
+        }
     }
 
     updateBarrel() {
